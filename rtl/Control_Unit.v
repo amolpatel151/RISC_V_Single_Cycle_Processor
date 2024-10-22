@@ -1,7 +1,5 @@
 `timescale 1ns / 1ps
-/*
- 
- */
+
 module Control_Unit(
 		    input wire [6:0]  op,
 		    input wire [2:0]  funct3,
